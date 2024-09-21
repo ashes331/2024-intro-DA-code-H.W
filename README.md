@@ -28,7 +28,7 @@ https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/w02_3_python_data_s
   
 
 * 동영상 내용
-  1. 7차시: 서울 기온 데이터분석 기초동영상 https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/w02_3_python_data_structure.ipynb
+  1. 7차시: 서울 기온 데이터분석 기초동영상 
   
   2. 8차시: 서울 최고기온 데이터분석동영상
    
