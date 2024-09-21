@@ -8,6 +8,8 @@
 https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/data_vis.ipynb
 
 
+
+
 ### 2주차 과제 (2장 1 ~ 2절[~65p])
 
 * 2장 1절
@@ -15,6 +17,7 @@ https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/w02_1_python_basic.
 
 * 2장 2절
 https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/w02_2_control_flow_function.ipynb
+
 
 
 
