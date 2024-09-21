@@ -13,3 +13,4 @@ https://github.com/ashes331/2024-intro-DA-code/blob/main/data_vis.ipynb
 -1절
 https://github.com/ashes331/2024-intro-DA-code/blob/main/w02_1_python_basic.ipynb
 -2절
+https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/w02_2_control_flow_function.ipynb
