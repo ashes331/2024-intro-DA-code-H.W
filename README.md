@@ -4,7 +4,7 @@
 
 ### 1주차 과제 (1장 1절 : ~22p)
 
--1절
+* 1절
 https://github.com/ashes331/2024-intro-DA-code/blob/main/data_vis.ipynb
 
 
