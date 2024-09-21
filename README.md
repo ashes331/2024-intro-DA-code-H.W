@@ -31,9 +31,10 @@ https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/w02_3_python_data_s
   1. 7차시: 서울 기온 데이터분석 기초동영상
      https://nbviewer.org/github/ashes331/2024-intro-DA-code-H.W/blob/main/lecture07-seoul-temperature-mpl-np.ipynb
   
-  3. 8차시: 서울 최고기온 데이터분석동영상
+  2. 8차시: 서울 최고기온 데이터분석동영상
+     https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/lecture08-seoul-temperature.ipynb
    
-  4. 9차시: matplotlib과 numpy 라이브러리
+  5. 9차시: matplotlib과 numpy 라이브러리
   
 
 * chat gpt   
