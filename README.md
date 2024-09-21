@@ -24,6 +24,7 @@ https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/w02_2_control_flow_
 ### 3주차 과제 (2장 3절[~79p], 동영상 내용 코딩, chat gpt 코딩)
 
 * 2장 3절
+https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/w02_3_python_data_structure.ipynb
   
 
 * 동영상 내용
