@@ -1,0 +1,23 @@
+import pandas as pd
+
+# CSV 파일을 불러오기
+file_path = '/mnt/data/seoul (1).csv'
+data = pd.read_csv(file_path)
+
+# '날짜'와 '온도'와 관련된 열이 어떤 이름인지 확인
+print(data.columns)
+
+# 데이터에서 서울의 온도가 가장 높은 날짜와 온도 찾기
+# 열 이름이 '날짜', '최고기온'이라고 가정하고 작성
+highest_temp = data['온도'].max()
+highest_temp_date = data[data['온도'] == highest_temp]['날짜'].values[0]
+
+# 결과 출력
+print(f"서울의 가장 높은 온도: {highest_temp}도, 날짜: {highest_temp_date}")
+
+# 서울의 최고기온이 가장 높은 날짜와 온도를 찾기
+highest_temp = data['최고기온(℃)'].max()
+highest_temp_date = data[data['최고기온(℃)'] == highest_temp]['날짜'].values[0]
+
+# 결과 출력
+print(f"서울의 가장 높은 온도: {highest_temp}℃, 날짜: {highest_temp_date}")
