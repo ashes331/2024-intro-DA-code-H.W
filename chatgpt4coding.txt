@@ -1,4 +1,4 @@
-# https://chatgpt.com/share/66efaa32-c44c-8010-9a9e-abd2a7cb0815 
+# https://chatgpt.com/share/66efaa32-c44c-8010-9a9e-abd2a7cb0815 에서 전체적인 채팅 확인 가능
 
 import pandas as pd
 
