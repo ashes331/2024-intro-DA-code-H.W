@@ -38,4 +38,5 @@ https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/w02_3_python_data_s
      https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/lecture09.ipynb
   
 
-* chat gpt   
+* chat gpt
+  https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/chatgpt4coding.txt  
