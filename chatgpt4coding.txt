@@ -1,3 +1,5 @@
+# https://chatgpt.com/share/66efaa32-c44c-8010-9a9e-abd2a7cb0815 
+
 import pandas as pd
 
 # CSV 파일을 불러오기
