@@ -36,6 +36,11 @@ https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/w02_3_python_data_s
    
   3. 9차시: matplotlib과 numpy 라이브러리
      https://github.com/ashes331/2024-intro-DA-code-H.W/blob/main/lecture09.ipynb
+
+
+
+
+  ### 4주차 과제 (장 절[])
   
 
 * chat gpt
